@@ -1,0 +1,17 @@
+--------------------------------------------------------------------------------
+[10 feb 2023, 8:11:39,4 p. m.:ERROR:wallet_balance.cc(40)] Payment ID is empty
+[10 feb 2023, 8:11:39,4 p. m.:ERROR:wallet_balance.cc(40)] Payment ID is empty
+[10 feb 2023, 8:11:41,8 p. m.:ERROR:refill_unblinded_tokens.cc(213)] Failed to get signed tokens
+--------------------------------------------------------------------------------
+[10 feb 2023, 8:13:01,4 p. m.:ERROR:ad_events_database_table.cc(71)] Failed to get ad events
+--------------------------------------------------------------------------------
+[10 feb 2023, 10:32:34,9 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+[10 feb 2023, 10:32:34,9 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[11 feb 2023, 2:58:58,3 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+[11 feb 2023, 2:58:58,3 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+[11 feb 2023, 2:58:58,3 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+--------------------------------------------------------------------------------
+[11 feb 2023, 4:27:58,2 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+[11 feb 2023, 4:27:58,2 p. m.:ERROR:publisher.cc(748)] Publisher info not found
+[11 feb 2023, 4:28:38,6 p. m.:ERROR:publisher.cc(748)] Publisher info not found
